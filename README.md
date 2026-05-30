@@ -45,7 +45,7 @@ The analysis includes:
 
 Install dependencies:
 
-```bash id="’wini5206"
+```bash 
 pip install -r requirements.txt
 ```
 
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 # How To Run
 
-```bash id="’wini5207"
+```bash 
 python price_range_analysis.py
 ```
 
